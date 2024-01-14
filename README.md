@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sa001gar
-- 👀 I’m interested in ...Hacking
-- 🌱 I’m currently learning ...Ethical Hacking
-- 💞️ I’m looking to collaborate on ...google
+- 👀 I’m a Python Developer
+- 🌱 I’m currently learning ...Web Development
+- 💞️ I’m looking learn new languages
 
 <!---
 sa001gar/sa001gar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
