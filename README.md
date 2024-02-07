@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sa001gar
 - 👀 I’m a Python Developer
-- 🌱 I’m currently learning ...Web Development
+- 🌱 Learning {infinite}
 - 💞️ I’m looking learn new languages
 
 <!---
