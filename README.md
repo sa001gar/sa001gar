@@ -20,7 +20,7 @@ I'm on a continuous learning journey, exploring the intricacies of C and Rust to
 - 🛠️ C | Rust
 
 ### 🤝 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** https://www.linkedin.com/in/sagar-kundu-023801263/
 - **Twitter:** https://twitter.com/Anonymous_s_k_
 - **Email:** sagar001@5bds5q.onmicrosoft.com
 
