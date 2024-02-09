@@ -22,7 +22,8 @@ I'm on a continuous learning journey, exploring the intricacies of C and Rust to
 ### 🤝 Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/sagar-kundu-023801263/
 - **Twitter:** https://twitter.com/Anonymous_s_k_
-- **Email:** sagar001@5bds5q.onmicrosoft.com
+- **Email:** kundusagar233@gmail.com
+- **Instagram:** https://www.instagram.com/sagarkundu._/
 
 ### 🌐 Open for Collaboration
 Open to collaborating on interesting projects that involve cybersecurity, web development, or the fascinating world of C and Rust. Feel free to reach out if you have a project in mind or just want to connect!
