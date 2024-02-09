@@ -31,7 +31,7 @@ Open to collaborating on interesting projects that involve cybersecurity, web de
 ### 📈 Check Out My Work
 Explore my repositories to see some of the projects I'm working on. Feedback and collaboration are always welcome!
 
-Thanks for dropping by! 👨‍💻✨
+### Thanks for dropping by! 👨‍💻✨
 
 
 <!---
