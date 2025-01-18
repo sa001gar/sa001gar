@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Sagar Kundu" style="border-radius:50%;">
+  <img src="https://github.com/user-attachments/assets/59ac60dd-3f9a-4317-a35c-a011814f0536" alt="Sagar Kundu" style="border-radius:50%;width:20%;">
   <h1>Sagar Kundu</h1>
   <p>🚀 Python Maestro | 🌐 Web Wizard | 🔐 Cyber Sentinel | 🤖 Automation Alchemist</p>
 </div>
 
-<p align="center">
+<p 
+lign="center">
   <a href="https://www.linkedin.com/in/sagar-kundu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Anonymous_s_k_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:kundusagar233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
