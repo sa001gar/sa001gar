@@ -65,13 +65,13 @@ Hey there! 👋 I'm Sagar, a second-year B.Sc student at Mankar College with an 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Elctroguard-AI-Details&theme=radical" />
 </a>
 <a href="https://github.com/sa001gar/Lahari-2024">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=/Lahari-2024&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Lahari-2024&theme=radical" />
 </a>
 <a href="https://github.com/sa001gar/dhanki-lanka">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=dhanki-lanka&theme=radical" />
 </a>
 <a href="https://github.com/sa001gar/C-Questions-For-Sem-02">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=C-Questions-For-Sem-02r&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=C-Questions-For-Sem-02&theme=radical" />
 </a>
 <a href="https://github.com/sa001gar/CS-Farewell-2024">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=CS-Farewell-2024&theme=radical" />
