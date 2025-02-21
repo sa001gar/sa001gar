@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/59ac60dd-3f9a-4317-a35c-a011814f0536" alt="Sagar Kundu" style="border-radius:50%;width:20%;">
+<!--   <img src="https://github.com/user-attachments/assets/59ac60dd-3f9a-4317-a35c-a011814f0536" alt="Sagar Kundu" style="border-radius:50%;width:20%;"> -->
   <h1>Sagar Kundu</h1>
   <p>🚀 Python Maestro | 🌐 Web Wizard | 🔐 Cyber Sentinel | 🤖 Automation Alchemist</p>
 </div>
