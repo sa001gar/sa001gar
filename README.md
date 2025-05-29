@@ -16,7 +16,7 @@
 <!-- Real-time Spotify integration -->
 <div align="center">
 
-[![Spotify](https://spotify-worker.kundusagar233.workers.dev/api/now-playing)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
+[![Spotify](https://spotify-worker.kundusagar233.workers.dev/now-playing)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
 
 <details>
 <summary>🎧 My Coding Soundtrack</summary>
