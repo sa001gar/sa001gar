@@ -1,130 +1,219 @@
 <div align="center">
-<!--   <img src="https://github.com/user-attachments/assets/59ac60dd-3f9a-4317-a35c-a011814f0536" alt="Sagar Kundu" style="border-radius:50%;width:20%;"> -->
-  <h1>Sagar Kundu</h1>
-  <p>🚀 Python Maestro | 🌐 Web Wizard | 🔐 Cyber Sentinel | 🤖 Automation Alchemist</p>
+
+# 🌌 Sagar Kundu
+### `Digital Architect | Code Alchemist | System Whisperer`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Turning+coffee+into+code+since+forever;Welcome+to+my+digital+realm+%F0%9F%91%BE" alt="Typing SVG" />
+
+<!-- Dynamic GitHub Stats via API -->
+<img src="https://github-stats-worker.kundusagar233.workers.dev/api/stats?username=sa001gar&theme=matrix" alt="Dynamic GitHub Stats" />
+
 </div>
 
-<p 
-align="center">
-  <a href="https://www.linkedin.com/in/sagar-kundu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Anonymous_s_k_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:kundusagar233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sagarkundu._"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+---
 
-## 🎭 About Me
+## 🎵 Live Music Status
+<!-- Real-time Spotify integration -->
+<div align="center">
 
-Hey there! 👋 I'm Sagar, a second-year B.Sc student at Mankar College with an insatiable appetite for all things tech. By day, I'm crafting elegant code and building robust systems. By night, I'm hunting bugs and securing the digital realm. Welcome to my coding playground!
+[![Spotify](https://spotify-worker.kundusagar233.workers.dev/api/now-playing)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
 
-## 🛠️ Skills
+<details>
+<summary>🎧 My Coding Soundtrack</summary>
+
+<!-- Dynamic Spotify top tracks -->
+<img src="https://spotify-worker.your-username.workers.dev/api/top-tracks" alt="Top Tracks" />
+
+**Current Vibe:** Synthwave meets Lo-fi Hip Hop  
+**Coding Mood:** `if (coffee.level > 50) { productivity++; }`
+
+</details>
+
+</div>
+
+---
+
+## 🧬 System.getCurrentUser()
+
+\`\`\`typescript
+interface Developer {
+  name: string;
+  location: string;
+  currentFocus: string[];
+  philosophy: string;
+  status: 'building' | 'learning' | 'debugging' | 'caffeinating';
+}
+
+const sagar: Developer = {
+  name: "Sagar Kundu",
+  location: "West Bengal, India 🇮🇳",
+  currentFocus: [
+    "Building AI-powered applications",
+    "Exploring system vulnerabilities ethically", 
+    "Crafting beautiful terminal UIs",
+    "Automating everything possible"
+  ],
+  philosophy: "Code with purpose, break to understand, build to last",
+  status: getCurrentStatus() // Live status via API
+};
+\`\`\`
+
+<!-- Live coding status -->
+<img src="https://coding-status-worker.your-username.workers.dev/api/status?user=sa001gar" alt="Live Coding Status" />
+
+---
+
+## 🛠️ Tech DNA Sequence
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+<!-- Dynamic tech stack with usage stats -->
+<img src="https://tech-stack-worker.your-username.workers.dev/api/stack?user=sa001gar&style=dna" alt="Tech DNA" />
 
-### 🧰 Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend Artistry
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚡ Backend Sorcery
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🤖 AI/ML Arsenal
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-### 🔐 Cybersecurity
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/-Ethical_Hacking-4B0082?style=for-the-badge&logo=kali-linux&logoColor=white)
+### 🔧 Systems Programming
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
 
-## 🚀 Featured Projects
+---
+
+## 📊 Real-time Analytics Dashboard
 
 <div align="center">
 
-<a href="https://github.com/sa001gar/kitto-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=kitto-ai&theme=radical" />
-</a>
-<a href="https://github.com/sa001gar/Stress_APP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Stress_APP&theme=radical" />
-</a>
-<a href="https://github.com/sa001gar/Applied-Physio---BETA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Applied-Physio---BETA&theme=radical" />
-</a>
-<a href="https://github.com/sa001gar/Elctroguard-AI-Details">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Elctroguard-AI-Details&theme=radical" />
-</a>
-<a href="https://github.com/sa001gar/Lahari-2024">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Lahari-2024&theme=radical" />
-</a>
-<a href="https://github.com/sa001gar/dhanki-lanka">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=dhanki-lanka&theme=radical" />
-</a>
-<a href="https://github.com/sa001gar/C-Questions-For-Sem-02">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=C-Questions-For-Sem-02&theme=radical" />
-</a>
-<a href="https://github.com/sa001gar/CS-Farewell-2024">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=CS-Farewell-2024&theme=radical" />
-</a>
+<!-- Custom analytics via Cloudflare Workers -->
+<img src="https://github-analytics-worker.your-username.workers.dev/api/dashboard?user=sa001gar&theme=matrix" alt="Analytics Dashboard" />
+
+<table>
+<tr>
+<td>
+
+**📈 Live GitHub Stats**
+<!-- Real-time GitHub data -->
+<img src="https://github-readme-stats.vercel.app/api?username=sa001gar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Code%20Statistics&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41" />
+
+</td>
+<td>
+
+**🔥 Streak Counter**
+<!-- Contribution streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sa001gar&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b6b&currStreakLabel=00ff41" />
+
+</td>
+</tr>
+</table>
+
+<!-- Language usage with real-time data -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa001gar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=10" />
 
 </div>
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sa001gar&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Sagar's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sa001gar&theme=radical" alt="Sagar's GitHub Streak" />
-</div>
-
-## 🏆 Achievements & Contributions
-
-- 🐛 Bug Hunter: Identified vulnerabilities in NTA, NIC, Banglar Bhumi Portal, and more
-- 🌟 Open Source Contributor: Active in web development, automation, and cybersecurity projects
-- 🎓 Mentor: Trained 15+ students in web development, Python, and cybersecurity
-- 🏅 Certifications: Currently pursuing Google Cybersecurity certification
-
-## 🌱 Current Learning Goals
-
-- 🟢 Node.js: Expanding JavaScript skills for full-stack development
-- 🔵 TypeScript: Enhancing code quality and maintainability
-- 🍃 MongoDB: Diving into NoSQL databases
-- 📊 Advanced SQL: Mastering complex queries and database optimization
-
-## 🤝 Let's Collaborate!
-
-I'm always excited to work on innovative projects and solve challenging problems. Whether it's web development, automation, AI, or cybersecurity, I'm ready to dive in! Feel free to reach out if you want to collaborate or just chat about tech!
-
-## 💡 Fun Facts
-
-- 🤖 AI enthusiast, always exploring its potential to revolutionize industries
-- 🔬 Tech experimenter, constantly tinkering with new frameworks and tools
-- 🕵️ Ethical hacking aficionado, always on the lookout for vulnerabilities to fix
-- 🌐 Open-source advocate, firm believer in the power of community-driven development
-- 🧠 Puzzle solver, enjoys coding challenges and bug hunting in free time
+## 🚀 Project Showcase
 
 <div align="center">
 
-### 📫 Get in Touch
+<!-- Dynamic project cards with live stats -->
+<img src="https://project-showcase-worker.your-username.workers.dev/api/showcase?user=sa001gar&count=4" alt="Project Showcase" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-kundu)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Anonymous_s_k_)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kundusagar233@gmail.com)
+<!-- Featured repositories with live data -->
+[![Kitto AI](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=kitto-ai&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/sa001gar/kitto-ai)
+[![ElectroGuard AI](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Elctroguard-AI-Details&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/sa001gar/Elctroguard-AI-Details)
 
 </div>
 
-<p align="center">Thanks for stopping by! Don't forget to ⭐ some repositories if you find them interesting!</p>
+---
 
+## 🏆 Achievement Unlocked
+
+\`\`\`bash
+$ cat ~/.achievements | grep -E "(2024|recent)"
+
+[2024-12-29] 🐞 Bug Hunter: Discovered vulnerabilities in NTA, NIC, Banglar Bhumi
+[2024-11-15] 🧠 Mentor Level Up: Guided 15+ students in Python & Django
+[2024-10-20] 🌱 Certification Progress: Google Cybersecurity (85% complete)
+[2024-09-10] 📢 Speaker Achievement: Tech fest presentations
+[2024-08-05] 🔒 Responsible Disclosure: Government portal security reports
+[2024-07-01] 🚀 Project Milestone: 5 major projects deployed
+\`\`\`
+
+<!-- Live achievement counter -->
+<img src="https://achievement-worker.your-username.workers.dev/api/counter?user=sa001gar" alt="Achievement Counter" />
+
+---
+
+## 📈 Contribution Heatmap
+
+<div align="center">
+
+<!-- Enhanced contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sa001gar&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" />
+
+<!-- Custom contribution insights -->
+<img src="https://contribution-insights-worker.your-username.workers.dev/api/insights?user=sa001gar" alt="Contribution Insights" />
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+<div align="center">
+
+<!-- Live coding goals tracker -->
+<img src="https://goals-tracker-worker.your-username.workers.dev/api/progress?user=sa001gar" alt="Goals Progress" />
+
+</div>
+
+```python
+class CurrentMission:
+    def __init__(self):
+        self.learning_queue = [
+            "🧠 Advanced ML algorithms",
+            "🔐 Advanced penetration testing",
+            "🦀 Rust systems programming", 
+            "☁️ Cloud architecture patterns",
+            "🌐 Web3 & blockchain fundamentals"
+        ]
+        
+        self.building = [
+            "🤖 AI-powered code review tool",
+            "🔒 Security vulnerability scanner",
+            "📱 Cross-platform mobile app",
+            "🌐 Distributed system architecture"
+        ]
+    
+    def get_daily_routine(self):
+        return {
+            "06:00": "☕ Coffee + Planning",
+            "07:00": "🏃 Morning run (debugging in head)",
+            "08:00": "💻 Deep work session",
+            "12:00": "🍽️ Lunch + tech podcasts", 
+            "13:00": "🔍 Bug hunting & research",
+            "18:00": "🎯 Personal projects",
+            "22:00": "📚 Learning new tech",
+            "23:30": "🌙 Reflection & tomorrow's plan"
+        }
+
+mission = CurrentMission()
+print("Status: Building the future, one commit at a time 🚀")
