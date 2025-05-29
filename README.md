@@ -147,7 +147,7 @@ const sagar: Developer = {
 
 ## 🏆 Achievement Unlocked
 
-\`\`\`bash
+```bash
 $ cat ~/.achievements | grep -E "(2024|recent)"
 
 [2024-12-29] 🐞 Bug Hunter: Discovered vulnerabilities in NTA, NIC, Banglar Bhumi
@@ -156,7 +156,7 @@ $ cat ~/.achievements | grep -E "(2024|recent)"
 [2024-09-10] 📢 Speaker Achievement: Tech fest presentations
 [2024-08-05] 🔒 Responsible Disclosure: Government portal security reports
 [2024-07-01] 🚀 Project Milestone: 5 major projects deployed
-\`\`\`
+```
 
 <!-- Live achievement counter -->
 <img src="https://achievement-worker.your-username.workers.dev/api/counter?user=sa001gar" alt="Achievement Counter" />
