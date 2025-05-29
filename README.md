@@ -22,7 +22,7 @@
 <summary>🎧 My Coding Soundtrack</summary>
 
 <!-- Dynamic Spotify top tracks -->
-<img src="https://spotify-worker.your-username.workers.dev/api/top-tracks" alt="Top Tracks" />
+<img src="https://spotify-worker.kundusagar233.workers.dev/api/top-tracks" alt="Top Tracks" />
 
 **Current Vibe:** Synthwave meets Lo-fi Hip Hop  
 **Coding Mood:** `if (coffee.level > 50) { productivity++; }`
@@ -51,7 +51,7 @@ const sagar: Developer = {
     "Building AI-powered applications",
     "Exploring system vulnerabilities ethically", 
     "Crafting beautiful terminal UIs",
-    "Automating everything possible"
+    "Automating everything possible",
   ],
   philosophy: "Code with purpose, break to understand, build to last",
   status: getCurrentStatus() // Live status via API
