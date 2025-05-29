@@ -171,8 +171,11 @@ $ cat ~/.achievements | grep -E "(2024|recent)"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa001gar&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" />
 
 <!-- Custom contribution insights -->
-<img src="https://contribution-insights-worker.your-username.workers.dev/api/insights?user=sa001gar" alt="Contribution Insights" />
+<!-- <img src="https://contribution-insights-worker.your-username.workers.dev/api/insights?user=sa001gar" alt="Contribution Insights" /> -->
 
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sa001gar&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
