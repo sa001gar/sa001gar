@@ -35,7 +35,7 @@
 
 ## 🧬 System.getCurrentUser()
 
-\`\`\`typescript
+```typescript
 interface Developer {
   name: string;
   location: string;
@@ -56,7 +56,8 @@ const sagar: Developer = {
   philosophy: "Code with purpose, break to understand, build to last",
   status: getCurrentStatus() // Live status via API
 };
-\`\`\`
+
+```
 
 <!-- Live coding status -->
 <img src="https://coding-status-worker.your-username.workers.dev/api/status?user=sa001gar" alt="Live Coding Status" />
