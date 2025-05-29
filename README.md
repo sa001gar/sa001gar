@@ -102,7 +102,7 @@ const sagar: Developer = {
 <div align="center">
 
 <!-- Custom analytics via Cloudflare Workers -->
-<img src="https://github-analytics-worker.your-username.workers.dev/api/dashboard?user=sa001gar&theme=matrix" alt="Analytics Dashboard" />
+<img src="https://github-analytics-worker.kundusagar233.workers.dev/api/dashboard?user=sa001gar&theme=matrix" alt="Analytics Dashboard" />
 
 <table>
 <tr>
