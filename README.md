@@ -69,7 +69,7 @@ const sagar: Developer = {
 <div align="center">
 
 <!-- Dynamic tech stack with usage stats -->
-<img src="https://tech-stack-worker.your-username.workers.dev/api/stack?user=sa001gar&style=dna" alt="Tech DNA" />
+<!-- <img src="https://tech-stack-worker.your-username.workers.dev/api/stack?user=sa001gar&style=dna" alt="Tech DNA" /> -->
 
 ### 🎨 Frontend Artistry
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -102,7 +102,6 @@ const sagar: Developer = {
 <div align="center">
 
 <!-- Custom analytics via Cloudflare Workers -->
-<img src="https://github-analytics-worker.kundusagar233.workers.dev/api/dashboard?user=sa001gar&theme=matrix" alt="Analytics Dashboard" />
 
 <table>
 <tr>
@@ -135,7 +134,6 @@ const sagar: Developer = {
 <div align="center">
 
 <!-- Dynamic project cards with live stats -->
-<img src="https://project-showcase-worker.your-username.workers.dev/api/showcase?user=sa001gar&count=4" alt="Project Showcase" />
 
 <!-- Featured repositories with live data -->
 [![Kitto AI](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=kitto-ai&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/sa001gar/kitto-ai)
@@ -159,7 +157,6 @@ $ cat ~/.achievements | grep -E "(2024|recent)"
 ```
 
 <!-- Live achievement counter -->
-<img src="https://achievement-worker.your-username.workers.dev/api/counter?user=sa001gar" alt="Achievement Counter" />
 
 ---
 
