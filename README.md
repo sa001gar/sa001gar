@@ -19,6 +19,9 @@
     ║   "Code with purpose, build with passion, share with love"   ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
+</div>
+
+<div align="center">
 
 <br>
 
@@ -40,13 +43,24 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+    
 [![Spotify](https://spotify-worker.kundusagar233.workers.dev/current-playing?github=true&image=false&background=1a1b27&color=ffffff)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
+</td>
 
-** Coding Playlist:** *60s–80s Classics • 2000s Bollywood • Kishore Kumar Forever*
+<td width="50%">
+    
+**Coding Playlist:** *60s–80s Classics • 2000s Bollywood • Kishore Kumar Forever*
 
-** Favorite Web Series:** *Asur • The Social Network • Scam 1992 • The Playlist • The Hustler • Panchayat *
+**Favorite Web Series:** *Asur • The Social Network • Scam 1992 • The Playlist • The Hustler • Panchayat* 
 
-** Go-to Films:** *Interstellar • Kishore Kumar Junior • Steve Jobs • 800*
+**Go-to Films:** *Interstellar • Kishore Kumar Junior • Steve Jobs • 800*
+</td>
+
+</tr>
+</table>
 
 
 </div>
@@ -226,7 +240,7 @@ console.log("Welcome to my digital world!");
 
 ## 🏆 **Hall of Fame & Achievements**
 
-<div align="center">
+<div align="left">
 
 ### **2025 Achievement Unlocked**
 ```bash
@@ -422,48 +436,9 @@ print(" Current Objective: Mastering the art of digital creation")
 
 ---
 
-## 🌟 **The Matrix: Live System Status**
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🖥️  SYSTEM STATUS MONITOR                 ║
-╠══════════════════════════════════════════════════════════════╣
-║ User: sa001gar                    Status: ONLINE            ║
-║ Location: West Bengal, India      Time: IST (UTC+5:30)      ║
-║ Current Activity: Building the future                       ║
-║                                                              ║
-║  PERFORMANCE METRICS:                                      ║
-║ ├─ Code Quality Score: 94/100                               ║
-║ ├─ Bug Resolution Rate: 98.7%                               ║
-║ ├─ Learning Velocity: 15 new concepts/week                  ║
-║ ├─ Mentoring Impact: 15+ developers guided                  ║
-║ └─ Innovation Index: 87% (Above Average)                    ║
-║                                                              ║
-║  CURRENT PROCESSES:                                        ║
-║ ├─ [RUNNING] AI Model Training                              ║
-║ ├─ [RUNNING] Security Vulnerability Scan                    ║
-║ ├─ [RUNNING] Code Review & Optimization                     ║
-║ ├─ [RUNNING] Knowledge Absorption Protocol                  ║
-║ └─ [RUNNING] Coffee.exe (Critical Process)                  ║
-║                                                              ║
-║  MISSION PROGRESS:                                         ║
-║ ├─ 2025 Goals: ████████████████████ 87%                    ║
-║ ├─ Skill Development: ███████████████████ 92%              ║
-║ ├─ Project Completion: ████████████████ 78%                ║
-║ └─ Community Impact: ████████████████████ 95%              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-
-</div>
-
----
-
 ##  **Easter Eggs & Fun Zone**
 
-<div align="center">
+<div align="left">
 
 ###  **Random Developer Joke**
 ```javascript
@@ -509,7 +484,7 @@ Peak activity: 10 PM - 2 AM IST (Night owl confirmed! )
 
 ## 💬 **Let's Connect & Collaborate!**
 
-<div align="center">
+<div align="left">
 
 ### 🤝 **Open for Collaboration**
 ```typescript
@@ -569,10 +544,3 @@ const opportunities: CollaborationOpportunities = {
 *Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together! *
 
 </div>
-
-- Easter eggs and coding jokes
-- Visitor analytics
-- Collaboration opportunities
-- Professional contact information
-
-This README is now perfect and ready to make your GitHub profile absolutely stunning! 🚀
