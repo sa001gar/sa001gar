@@ -92,7 +92,7 @@ const sagar = {
     " Sharing knowledge through mentoring"
   ],
 
-  // 🧠 Philosophy & Mindset
+  //  Philosophy & Mindset
   philosophy: {
     code: "Write code that tells a story",
     security: "Break it to understand it, then make it unbreakable",
@@ -112,8 +112,7 @@ const sagar = {
     editor: "VS Code with 50+ extensions",
     terminal: "Oh My Zsh with Powerlevel10k",
     browser: "Chrome DevTools Master",
-    coffee: "☕ 4-6 cups/day (Premium Blend)",
-    music: " Oneplus",
+    music: " Oneplus Nord Buds 2r True Wireless",
     setup: " Dark mode everything, always"
   },
 
