@@ -324,20 +324,6 @@ UI/UX Design           ████████████████     80%
 
 ---
 
-## 🚀 **Featured Project Showcase**
-
-<div align="center">
-
-### 🌟 **Pinned Repositories**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=your-awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/sa001gar/your-awesome-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=your-awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/sa001gar/your-awesome-project-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=your-awesome-project-3&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/sa001gar/your-awesome-project-3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=your-awesome-project-4&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/sa001gar/your-awesome-project-4)
-
-
-</div>
-
----
 
 ##  **Mission Control Center**
 
