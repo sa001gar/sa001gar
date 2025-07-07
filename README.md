@@ -1,57 +1,114 @@
 <div align="center">
 
-# 🚀 **SAGAR KUNDU** 🚀
-### `< Digital Architect />` • `{ Code Alchemist }` • `System.Whisperer()`
+# 🌟 **SAGAR KUNDU** 🌟
+### `< 🚀 Digital Architect />` • `{ 🧙‍♂️ Code Alchemist }` • `System.Whisperer() 🔮`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%8C%9F+Crafting+Digital+Experiences;%F0%9F%94%A5+Building+Tomorrow's+Technology;%F0%9F%92%A1+Turning+Ideas+Into+Reality;%E2%9A%A1+Full-Stack+%7C+AI%2FML+%7C+DevOps" alt="Dynamic Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8&center=true&vCenter=true&multiline=true&width=900&height=150&lines=%F0%9F%8C%9F+Welcome+to+my+Digital+Universe;%F0%9F%94%A5+Crafting+Code+%7C+Breaking+Systems+%7C+Building+Dreams;%F0%9F%92%A1+Full-Stack+%7C+AI%2FML+%7C+Cybersecurity+%7C+DevOps;%E2%9A%A1+Turning+Coffee+into+Code+since+2020;%F0%9F%9A%80+Currently+Building+the+Future..." alt="Epic Typing Animation" />
 
----
+```
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+████████╗██╗  ██╗███████╗    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
+╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝
+   ██║   ███████║█████╗      █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗  
+   ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝  
+   ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
 
-### 🌐 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+### 🌐 **Digital Presence & Portfolio**
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://kundusagar233.workers.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-kundu-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sa001gar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sa001gar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusagar233@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sa001gar)
+
+<img src="https://komarev.com/ghpvc/?username=sa001gar&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🎵 **Currently Vibing To**
+## 🎵 **Currently Jamming To** 🎧
+
 <div align="center">
 
 [![Spotify](https://spotify-worker.kundusagar233.workers.dev/current-playing?github=true&image=false&background=1a1b27&color=ffffff)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
 
+**🎶 Coding Playlist:** *Synthwave • Lo-fi Hip Hop • Cyberpunk 2077 OST • Interstellar Soundtrack*
+
 </div>
 
 ---
 
-## 🧬 **System.getCurrentDeveloper()**
+## 🧬 **System.getPersonalInfo()** 
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  currentFocus: string[];
-  philosophy: string;
-  status: 'building' | 'learning' | 'debugging' | 'caffeinating';
-  dailyDrivers: string[];
-}
+```javascript
+const sagar = {
+  // 🌟 Personal Matrix
+  personalInfo: {
+    name: "Sagar Kundu",
+    age: calculateAge("2003-XX-XX"), // The mystery continues...
+    location: "West Bengal, India 🇮🇳",
+    timezone: "Asia/Kolkata (UTC+5:30)",
+    languages: ["Bengali 🏠", "English 🌍", "Hindi 💬", "JavaScript 💻"],
+    pronouns: "he/him",
+    relationship_status: "In a relationship with my code ❤️"
+  },
 
-const sagar: Developer = {
-  name: "Sagar Kundu",
-  location: "West Bengal, India 🇮🇳",
+  // 🎯 Current Mission
   currentFocus: [
-    "🤖 AI-powered applications",
-    "🔐 Ethical hacking & security research",
-    "🎨 Beautiful terminal UIs",
-    "⚡ System automation"
+    "🤖 Building AI-powered applications",
+    "🔐 Ethical hacking & penetration testing",
+    "🎨 Crafting beautiful terminal UIs",
+    "⚡ Automating everything possible",
+    "🌐 Contributing to open source",
+    "📚 Sharing knowledge through mentoring"
   ],
-  philosophy: "Code with purpose, break to understand, build to last",
-  status: 'building', // Always building something cool
-  dailyDrivers: ["☕ Coffee", "🎧 Lo-fi", "⌨️ Mechanical Keyboard", "🌙 Dark Mode"]
+
+  // 🧠 Philosophy & Mindset
+  philosophy: {
+    code: "Write code that tells a story",
+    security: "Break it to understand it, then make it unbreakable",
+    learning: "Every bug is a lesson, every feature is growth",
+    life: "Code with purpose, build with passion, share with love"
+  },
+
+  // ⚡ Current Status
+  status: () => {
+    const activities = ['building', 'learning', 'debugging', 'caffeinating', 'hacking'];
+    return activities[Math.floor(Math.random() * activities.length)];
+  },
+
+  // 🛠️ Daily Arsenal
+  dailyDrivers: {
+    hardware: "💻 Custom Gaming Rig + MacBook Pro",
+    editor: "VS Code with 50+ extensions",
+    terminal: "Oh My Zsh with Powerlevel10k",
+    browser: "Chrome DevTools Master",
+    coffee: "☕ 4-6 cups/day (Premium Blend)",
+    music: "🎧 Sony WH-1000XM4",
+    setup: "🌙 Dark mode everything, always"
+  },
+
+  // 🎮 Fun Facts
+  funFacts: [
+    "🐛 Found my first bug at age 16, been hunting them ever since",
+    "🌙 I code better at night (3 AM = peak productivity)",
+    "☕ My code-to-coffee ratio is approximately 100 lines per cup",
+    "🎯 Can debug code faster than most people can read it",
+    "🔐 Accidentally hacked my own website while testing security",
+    "🎵 My commit messages are sometimes song lyrics",
+    "🚀 Dream: To build something that changes the world"
+  ]
 };
+
+console.log("Welcome to my digital realm! 🌟");
 ```
 
 ---
