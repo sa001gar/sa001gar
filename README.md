@@ -2,7 +2,7 @@
 
 # **SAGAR KUNDU**
 
-** Full-Stack Developer** • ** AI/ML Engineer** • ** Cybersecurity Enthusiast** • ** DevOps Explorer**
+**Full-Stack Developer** • **AI/ML Engineer** • **Penetration Tester** • **DevOps Explorer**
 
 <br>
 
@@ -12,18 +12,18 @@
 
 ```
     ╔══════════════════════════════════════════════════════════════╗
-    ║                    Welcome to my Digital Realm               ║
+    ║                  Welcome to my Digital World!                ║
     ║                                                              ║
-    ║  🌍 West Bengal, India  •  ☕ Coffee-Powered  •   Night Owl ║
+    ║     West Bengal, India  •   Coffee-Powered  •   Night Owl    ║
     ║                                                              ║
-    ║     "Code with purpose, build with passion, share with love" ║
+    ║   "Code with purpose, build with passion, share with love"   ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-### 🌐 **Digital Presence & Portfolio**
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://portfolio.sagarkundu.live)
+###  **Digital Presence & Portfolio**
+[![Portfolio](https://img.shields.io/badge/_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://portfolio.sagarkundu.live)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkundu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagarkundu._)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sagarkundu.live)
@@ -42,22 +42,22 @@
 
 [![Spotify](https://spotify-worker.kundusagar233.workers.dev/current-playing?github=true&image=false&background=1a1b27&color=ffffff)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
 
-**🎶 Coding Playlist:** *60s–80s Classics • 2000s Bollywood • Kishore Kumar Forever*
+** Coding Playlist:** *60s–80s Classics • 2000s Bollywood • Kishore Kumar Forever*
 
-**🎥 Favorite Web Series:** *Asur • The Social Network • Scam 1992 • The Playlist • The Hustler • Panchayat *
+** Favorite Web Series:** *Asur • The Social Network • Scam 1992 • The Playlist • The Hustler • Panchayat *
 
-**🎬 Go-to Films:** *Interstellar • Kishore Kumar Junior • Steve Jobs • 800*
+** Go-to Films:** *Interstellar • Kishore Kumar Junior • Steve Jobs • 800*
 
 
 </div>
 
 ---
 
-## 🧬 **System.getPersonalInfo()** 
+##  **System.getPersonalInfo()** 
 
 ```javascript
 const sagar = {
-  // 🌟 Personal Matrix
+  //  Personal Matrix
   personalInfo: {
     name: "Sagar Kundu",
     age: calculateAge("2006-XX-XX"), // The mystery continues...
@@ -86,13 +86,13 @@ const sagar = {
     life: "Code with purpose, build with passion, share with love"
   },
 
-  // ⚡ Current Status
+  //  Current Status
   status: () => {
     const activities = ['building', 'learning', 'debugging', 'caffeinating', 'hacking'];
     return activities[Math.floor(Math.random() * activities.length)];
   },
 
-  // 🛠️ Daily Arsenal
+  //  Daily Arsenal
   dailyDrivers: {
     hardware: "💻 16GB RAM, (128 GB NVME + 256 GB SATA-III SSD),  Intel Processor",
     editor: "VS Code with 50+ extensions",
@@ -103,7 +103,7 @@ const sagar = {
     setup: " Dark mode everything, always"
   },
 
-  // 🎮 Fun Facts
+  //  Fun Facts
   funFacts: [
     " Found my first bug at age 16, been hunting them ever since",
     " I code better at night (3 AM = peak productivity)",
@@ -228,7 +228,7 @@ console.log("Welcome to my digital world!");
 
 <div align="center">
 
-### 🎖️ **2025 Achievement Unlocked**
+### **2025 Achievement Unlocked**
 ```bash
 $ cat ~/.achievements | grep -E "(2025|recent)" | head -10
 
@@ -242,7 +242,7 @@ $ cat ~/.achievements | grep -E "(2025|recent)" | head -10
 Total Achievements: 47 | Rank: Elite Developer | Next Level: Legendary Coder
 ```
 
-### 🏅 **Skill Mastery Levels**
+###  **Skill Mastery Levels**
 ```
 Frontend Development    ████████████████████ 95%
 Backend Architecture    ███████████████████  90%
@@ -265,7 +265,7 @@ UI/UX Design           ████████████████     80%
 
 ---
 
-## 📊 **Real-time Analytics Dashboard**
+##  **Real-time Analytics Dashboard**
 
 <div align="center">
 
@@ -320,22 +320,12 @@ UI/UX Design           ████████████████     80%
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=your-awesome-project-3&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/sa001gar/your-awesome-project-3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=your-awesome-project-4&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/sa001gar/your-awesome-project-4)
 
-### 🎯 **Project Categories**
-```
-🤖 AI/ML Projects        ████████████ 12 repos
-🔐 Security Tools        ████████     8 repos  
-🌐 Web Applications      ████████████████ 16 repos
-📱 Mobile Apps           ██████       6 repos
-🛠️ DevOps Tools          ████████     8 repos
-📚 Learning Resources    ██████████   10 repos
-🎮 Fun Projects          ████         4 repos
-```
 
 </div>
 
 ---
 
-## 🎯 **Mission Control Center**
+##  **Mission Control Center**
 
 ```python
 class MissionControlCenter:
@@ -353,7 +343,7 @@ class MissionControlCenter:
                 "Kubernetes & microservices architecture"
             ],
             
-            "🔐 Cybersecurity Mastery": [
+            " Cybersecurity Mastery": [
                 "Advanced penetration testing methodologies",
                 "Malware analysis & reverse engineering", 
                 "Cloud security architecture",
@@ -361,7 +351,7 @@ class MissionControlCenter:
                 "Incident response & forensics"
             ],
             
-            "🚀 Innovation Projects": [
+            " Innovation Projects": [
                 "AI-powered code review assistant",
                 "Automated security vulnerability scanner", 
                 "Real-time collaboration platform",
@@ -370,40 +360,20 @@ class MissionControlCenter:
             ]
         }
     
-    def get_daily_schedule(self):
-        return {
-            "05:30": "🌅 Morning meditation & planning",
-            "06:00": "☕ Coffee ritual + tech news digest",
-            "07:00": "🏃 Morning run (mental debugging session)",
-            "08:00": "💻 Deep work: Core development time",
-            "10:00": "🔍 Security research & vulnerability hunting",
-            "12:00": "🍽️ Lunch + tech podcasts/audiobooks",
-            "13:00": "👥 Mentoring sessions & community help",
-            "15:00": "🎯 Personal project development",
-            "17:00": "📚 Learning new technologies",
-            "19:00": "🍽️ Dinner + family time",
-            "20:00": "📝 Writing technical articles/documentation",
-            "22:00": "🎮 Gaming/relaxation time",
-            "23:00": "🌙 Reflection & tomorrow's strategy",
-            "23:30": "😴 Sleep (dreams of code)"
-        }
-    
     def get_current_stats(self):
         return {
-            "☕ Coffee Consumed": "1,247 cups this year",
-            "🐛 Bugs Fixed": "2,156 and counting",
-            "🔐 Vulnerabilities Found": "23 critical, 67 medium",
-            "👥 Students Mentored": "15+ aspiring developers",
-            "📚 Articles Written": "12 technical deep-dives",
-            "🚀 Projects Deployed": "8 production applications",
-            "⭐ GitHub Stars Earned": "150+ across repositories",
-            "🎯 Goals Achieved": "87% of 2024 objectives"
+            " Coffee Consumed": "1,247 cups this year",
+            " Bugs Fixed": "2,156 and counting",
+            " Vulnerabilities Found": "23 critical, 67 medium",
+            " Students Mentored": "15+ aspiring developers",
+            " Articles Written": "12 technical deep-dives",
+            " Projects Deployed": "8 production applications",
         }
 
 # Initialize mission control
 mission = MissionControlCenter()
-print("🚀 Mission Status: Building the future, one commit at a time!")
-print("🎯 Current Objective: Mastering the art of digital creation")
+print(" Mission Status: Building the future, one commit at a time!")
+print(" Current Objective: Mastering the art of digital creation")
 ```
 
 ---
@@ -464,52 +434,41 @@ print("🎯 Current Objective: Mastering the art of digital creation")
 ║ Location: West Bengal, India      Time: IST (UTC+5:30)      ║
 ║ Current Activity: Building the future                       ║
 ║                                                              ║
-║ 📊 PERFORMANCE METRICS:                                      ║
+║  PERFORMANCE METRICS:                                      ║
 ║ ├─ Code Quality Score: 94/100                               ║
 ║ ├─ Bug Resolution Rate: 98.7%                               ║
 ║ ├─ Learning Velocity: 15 new concepts/week                  ║
 ║ ├─ Mentoring Impact: 15+ developers guided                  ║
 ║ └─ Innovation Index: 87% (Above Average)                    ║
 ║                                                              ║
-║ 🔥 CURRENT PROCESSES:                                        ║
+║  CURRENT PROCESSES:                                        ║
 ║ ├─ [RUNNING] AI Model Training                              ║
 ║ ├─ [RUNNING] Security Vulnerability Scan                    ║
 ║ ├─ [RUNNING] Code Review & Optimization                     ║
 ║ ├─ [RUNNING] Knowledge Absorption Protocol                  ║
 ║ └─ [RUNNING] Coffee.exe (Critical Process)                  ║
 ║                                                              ║
-║ 🎯 MISSION PROGRESS:                                         ║
-║ ├─ 2024 Goals: ████████████████████ 87%                    ║
+║  MISSION PROGRESS:                                         ║
+║ ├─ 2025 Goals: ████████████████████ 87%                    ║
 ║ ├─ Skill Development: ███████████████████ 92%              ║
 ║ ├─ Project Completion: ████████████████ 78%                ║
 ║ └─ Community Impact: ████████████████████ 95%              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 **Real-time Activity Feed**
-```bash
-[2024-01-07 23:30:12] 🔍 Scanning for new vulnerabilities...
-[2024-01-07 23:29:45] 💻 Pushed 3 commits to main branch
-[2024-01-07 23:28:30] 🤖 AI model training: 89% complete
-[2024-01-07 23:27:15] ☕ Coffee level: Optimal for coding
-[2024-01-07 23:26:00] 🎵 Now playing: Synthwave coding playlist
-[2024-01-07 23:25:30] 📚 Learning: Advanced Rust patterns
-[2024-01-07 23:24:15] 🔐 Security audit: 2 issues resolved
-[2024-01-07 23:23:00] 💡 New project idea documented
-```
 
 </div>
 
 ---
 
-## 🎮 **Easter Eggs & Fun Zone**
+##  **Easter Eggs & Fun Zone**
 
 <div align="center">
 
-### 🎲 **Random Developer Joke**
+###  **Random Developer Joke**
 ```javascript
 // Why do programmers prefer dark mode?
-// Because light attracts bugs! 🐛💡
+// Because light attracts bugs! 
 
 const joke = Math.random() > 0.5 
   ? "There are only 10 types of people: those who understand binary and those who don't."
@@ -518,7 +477,7 @@ const joke = Math.random() > 0.5
 console.log(joke);
 ```
 
-### 🎯 **Coding Mantras**
+###  **Coding Mantras**
 - *"Code is poetry written in logic"*
 - *"Debugging is like being a detective in a crime movie where you're also the murderer"*
 - *"The best error message is the one that never shows up"*
@@ -529,7 +488,7 @@ console.log(joke);
 
 ---
 
-## 📈 **Visitor Analytics & Engagement**
+##  **Visitor Analytics & Engagement**
 
 <div align="center">
 
@@ -537,11 +496,11 @@ console.log(joke);
 ![GitHub followers](https://img.shields.io/github/followers/sa001gar?label=Followers&style=for-the-badge&color=4ECDC4)
 ![GitHub User's stars](https://img.shields.io/github/stars/sa001gar?label=Total%20Stars&style=for-the-badge&color=FFD93D)
 
-### 🌍 **Global Reach**
+###  **Global Reach**
 ```
 Visitors from 25+ countries
 Top regions: India, USA, Germany, UK, Canada
-Peak activity: 10 PM - 2 AM IST (Night owl confirmed! 🦉)
+Peak activity: 10 PM - 2 AM IST (Night owl confirmed! )
 ```
 
 </div>
@@ -574,17 +533,17 @@ const opportunities: CollaborationOpportunities = {
 ```
 
 ### 📧 **Get In Touch**
-[![Email](https://img.shields.io/badge/📧_Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundusagar233@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌟_Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kundusagar233.workers.dev)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-kundu-profile)
+[![Email](https://img.shields.io/badge/_Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sagarkundu.live)
+[![Portfolio](https://img.shields.io/badge/_Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kundusagar233.workers.dev)
+[![LinkedIn](https://img.shields.io/badge/_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkundu)
 
 ### 💡 **What I Can Help With**
-- 🚀 Full-stack web development
-- 🤖 AI/ML implementation
-- 🔐 Security audits & penetration testing
-- 📚 Technical mentoring & code reviews
-- 🎯 Project architecture & optimization
-- 📝 Technical writing & documentation
+-  Full-stack web development
+-  AI/ML implementation
+-  Security audits & penetration testing
+-  Technical mentoring & code reviews
+-  Project architecture & optimization
+-  Technical writing & documentation
 
 </div>
 
@@ -607,7 +566,7 @@ const opportunities: CollaborationOpportunities = {
 ---
 
 ### 🎵 **Outro**
-*Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together! 🚀*
+*Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together! *
 
 </div>
 
