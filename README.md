@@ -58,10 +58,6 @@ const sagar: Developer = {
 };
 
 ```
-
-<!-- Live coding status -->
-<img src="https://coding-status-worker.your-username.workers.dev/api/status?user=sa001gar" alt="Live Coding Status" />
-
 ---
 
 ## 🛠️ Tech DNA Sequence
@@ -135,9 +131,7 @@ const sagar: Developer = {
 
 <!-- Dynamic project cards with live stats -->
 
-<!-- Featured repositories with live data -->
-[![Kitto AI](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=kitto-ai&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/sa001gar/kitto-ai)
-[![ElectroGuard AI](https://github-readme-stats.vercel.app/api/pin/?username=sa001gar&repo=Elctroguard-AI-Details&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)](https://github.com/sa001gar/Elctroguard-AI-Details)
+![](https://github-contributor-stats.vercel.app/api?username=sa001gar&limit=15&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -155,9 +149,6 @@ $ cat ~/.achievements | grep -E "(2024|recent)"
 [2024-08-05] 🔒 Responsible Disclosure: Government portal security reports
 [2024-07-01] 🚀 Project Milestone: 5 major projects deployed
 ```
-
-<!-- Live achievement counter -->
-
 ---
 
 ## 📈 Contribution Heatmap
@@ -167,9 +158,6 @@ $ cat ~/.achievements | grep -E "(2024|recent)"
 <!-- Enhanced contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa001gar&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" />
 
-<!-- Custom contribution insights -->
-<!-- <img src="https://contribution-insights-worker.your-username.workers.dev/api/insights?user=sa001gar" alt="Contribution Insights" /> -->
-
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sa001gar&theme=github_dark" alt="Profile Summary" />
@@ -178,13 +166,6 @@ $ cat ~/.achievements | grep -E "(2024|recent)"
 ---
 
 ## 🎯 Current Mission
-
-<div align="center">
-
-<!-- Live coding goals tracker -->
-<img src="https://goals-tracker-worker.your-username.workers.dev/api/progress?user=sa001gar" alt="Goals Progress" />
-
-</div>
 
 ```python
 class CurrentMission:
