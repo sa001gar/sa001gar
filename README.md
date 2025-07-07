@@ -273,8 +273,9 @@ UI/UX Design           ████████████████     80%
 <tr>
 <td width="50%">
 
-**📈 GitHub Statistics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sa001gar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Code%20Statistics&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149)
+**💻 Language Distribution**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sa001gar&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+</td>
 
 </td>
 <td width="50%">
@@ -288,22 +289,22 @@ UI/UX Design           ████████████████     80%
 
 <table>
 <tr>
-<td width="50%">
-**💻 Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sa001gar&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-</td>
-
-<td width="50%">
-   **📈 Contribution Activity Graph**
+<td width="100%">
+    
+**📈 Contribution Activity Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sa001gar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area=true&area_color=f85149)
 </td>
 </tr>
 
-</table>
-
-<br>
+<tr>
+<td width="100%">
+    
 **📊 Profile Summary Cards**
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sa001gar&theme=github_dark)
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -609,23 +610,7 @@ const opportunities: CollaborationOpportunities = {
 *Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together! 🚀*
 
 </div>
-```
 
-Perfect! Here's your complete `my-readme.md` file with all the amazing features:
-
-🌟 **What's included:**
-- Epic ASCII art header with your name
-- Dynamic typing animation
-- Complete social links and portfolio
-- Personal information in JavaScript format
-- Categorized tech stack (Frontend, Backend, Database, Systems, AI/ML, DevOps, Development, Design)
-- Achievement tracking system
-- Skill mastery progress bars
-- GitHub analytics dashboard
-- Featured project showcase
-- Mission control center with learning roadmap
-- Bhagavad Gita quotes with developer translations
-- Matrix-style system status monitor
 - Easter eggs and coding jokes
 - Visitor analytics
 - Collaboration opportunities
