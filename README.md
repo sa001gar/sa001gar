@@ -497,7 +497,7 @@ const opportunities: CollaborationOpportunities = {
 
 ### 📧 **Get In Touch**
 [![Email](https://img.shields.io/badge/_Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sagarkundu.live)
-[![Portfolio](https://img.shields.io/badge/_Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kundusagar233.workers.dev)
+[![Portfolio](https://img.shields.io/badge/_Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.sagarkundu.live)
 [![LinkedIn](https://img.shields.io/badge/_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkundu)
 
 ### 💡 **What I Can Help With**
