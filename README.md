@@ -16,13 +16,13 @@
 <!-- Real-time Spotify integration -->
 <div align="center">
 
-[![Spotify](https://spotify-worker.kundusagar233.workers.dev/current-playing??image=false&background=111111%22&color=ffffff)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
+[![Spotify](https://spotify-worker.kundusagar233.workers.dev/current-playing?github=true&image=false&background=111111%22&color=ffffff)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
 
 <details>
 <summary>🎧 Spotify Top Tracks</summary>
 
 <!-- Dynamic Spotify top tracks -->
-<img src="https://spotify-worker.kundusagar233.workers.dev/top-tracks?limit=5&background=000000&color=ffffff" alt="Top Tracks" />
+<img src="https://spotify-worker.kundusagar233.workers.dev/top-tracks?github=true&limit=5&background=000000&color=ffffff" alt="Top Tracks" />
 
 **Current Vibe:** Synthwave meets Lo-fi Hip Hop  
 **Coding Mood:** `if (coffee.level > 50) { productivity++; }`
