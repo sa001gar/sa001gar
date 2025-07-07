@@ -6,7 +6,7 @@
 
 <br>
 
-> *"Crafting code that tells stories, breaking systems to understand them, building dreams into reality"*
+> *"जहां चाह, वहां राह"* — Where there's a will, there's a way
 
 <br>
 
