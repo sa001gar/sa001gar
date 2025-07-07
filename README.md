@@ -330,7 +330,7 @@ UI/UX Design           ████████████████     80%
 ```python
 class MissionControlCenter:
     def __init__(self):
-        self.current_year = 2024
+        self.current_year = 2025
         self.mission_status = "ACTIVE"
         
     def get_learning_roadmap(self):
