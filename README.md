@@ -106,16 +106,6 @@ const sagar = {
     return activities[Math.floor(Math.random() * activities.length)];
   },
 
-  //  Daily Arsenal
-  dailyDrivers: {
-    hardware: "💻 16GB RAM, (128 GB NVME + 256 GB SATA-III SSD),  Intel Processor",
-    editor: "VS Code with 50+ extensions",
-    terminal: "Oh My Zsh with Powerlevel10k",
-    browser: "Chrome DevTools Master",
-    music: " Oneplus Nord Buds 2r True Wireless",
-    setup: " Dark mode everything, always"
-  },
-
   //  Fun Facts
   funFacts: [
     " Found my first bug at age 16, been hunting them ever since",
