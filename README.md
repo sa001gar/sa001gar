@@ -39,7 +39,7 @@
 
 ---
 
-## 🎵 **Currently Jamming To** 🎧
+## **Currently Jamming To** 🎧
 
 <div align="center">
 
@@ -77,12 +77,12 @@ const sagar = {
     age: calculateAge("2006-XX-XX"), // The mystery continues...
     location: "West Bengal, India 🇮🇳",
     timezone: "Asia/Kolkata (UTC+5:30)",
-    languages: ["Bengali ", "English ", "Hindi ", "JavaScript 💻"],
+    languages: ["Bengali ", "English ", "Hindi ", "JavaScript"],
     pronouns: "he/him",
     relationship_status: "In a relationship with my code ❤️"
   },
 
-  // 🎯 Current Mission
+  // Current Mission
   currentFocus: [
     " Building AI-powered applications",
     " Ethical hacking & penetration testing",
@@ -123,11 +123,11 @@ console.log("Welcome to my digital world!");
 
 ---
 
-## 🛠️ **Tech DNA Sequence**
+## **Tech DNA Sequence**
 
 <div align="center">
 
-### 🎨 **Frontend Artistry**
+### **Frontend Artistry**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -143,7 +143,7 @@ console.log("Welcome to my digital world!");
 ![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### ⚡ **Backend Sorcery**
+### **Backend Sorcery**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -158,7 +158,7 @@ console.log("Welcome to my digital world!");
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### 🗄️ **Database Mastery**
+### **Database Mastery**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -170,7 +170,7 @@ console.log("Welcome to my digital world!");
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### 🔧 **Systems Programming**
+### **Systems Programming**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -179,7 +179,7 @@ console.log("Welcome to my digital world!");
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 
-### 🤖 **AI/ML Arsenal**
+### **AI/ML Arsenal**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
@@ -191,7 +191,7 @@ console.log("Welcome to my digital world!");
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
 
-### ☁️ **DevOps & Cloud Mastery**
+### **DevOps & Cloud Mastery**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -208,7 +208,7 @@ console.log("Welcome to my digital world!");
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-### 🛠️ **Development Environment**
+### **Development Environment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -220,7 +220,7 @@ console.log("Welcome to my digital world!");
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🎨 **Design & Creative Tools**
+### **Design & Creative Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
@@ -229,48 +229,7 @@ console.log("Welcome to my digital world!");
 
 ---
 
-## 🏆 **Hall of Fame & Achievements**
-
-<div align="left">
-
-### **2025 Achievement Unlocked**
-```bash
-$ cat ~/.achievements | grep -E "(2025|recent)" | head -10
-
-[2025-07-01]  Project Milestone: 5 major full-stack projects deployed to production
-[2025-05-20]  Certification Progress: Google Cybersecurity Professional (85% complete)
-[2025-05-05]  Knowledge Sharer: Published 10+ technical articles and tutorials
-[2024-12-29]  Bug Hunter Supreme: Discovered critical vulnerabilities in NTA, NIC, Banglar Bhumi
-[2024-08-15]  Mentor Level 15: Successfully guided 15+ students in Python & Django
-[2024-08-05]  White Hat Hero: Responsible disclosure to government portals
-
-Total Achievements: 47 | Rank: Elite Developer | Next Level: Legendary Coder
-```
-
-###  **Skill Mastery Levels**
-```
-Frontend Development    ████████████████████ 95%
-Backend Architecture    ███████████████████  90%
-Database Design         ██████████████████   85%
-AI/ML Implementation    ████████████████     80%
-Cybersecurity          ███████████████████  90%
-DevOps & Cloud         ██████████████████   85%
-System Programming     ███████████████      75%
-UI/UX Design           ████████████████     80%
-```
-
-### 🎯 **Achievement Badges**
-![](https://img.shields.io/badge/_Streak_Master-30_Days-FF6B6B?style=for-the-badge)
-![](https://img.shields.io/badge/_Coffee_Addict-Level_99-8B4513?style=for-the-badge)
-![](https://img.shields.io/badge/_Night_Owl-3AM_Coder-191970?style=for-the-badge)
-![](https://img.shields.io/badge/_Bug_Hunter-Elite-32CD32?style=for-the-badge)
-![](https://img.shields.io/badge/_Mentor-15+_Students-FFD700?style=for-the-badge)
-
-</div>
-
----
-
-##  **Real-time Analytics Dashboard**
+## **Real-time Analytics Dashboard**
 
 <div align="center">
 
@@ -278,14 +237,14 @@ UI/UX Design           ████████████████     80%
 <tr>
 <td width="50%">
 
-**💻 Language Distribution**
+**Language Distribution**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sa001gar&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 </td>
 
 </td>
 <td width="50%">
 
-**🔥 Contribution Streak**
+**Contribution Streak**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sa001gar&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=ffa657&currStreakLabel=58a6ff)
 
 </td>
@@ -296,7 +255,7 @@ UI/UX Design           ████████████████     80%
 <tr>
 <td width="100%">
     
-**📈 Contribution Activity Graph**
+**Contribution Activity Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sa001gar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area=true&area_color=f85149)
 </td>
 </tr>
@@ -304,7 +263,7 @@ UI/UX Design           ████████████████     80%
 <tr>
 <td width="100%">
     
-**📊 Profile Summary Cards**
+**Profile Summary Cards**
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sa001gar&theme=github_dark)
 </td>
@@ -315,11 +274,11 @@ UI/UX Design           ████████████████     80%
 
 ---
 
-## 📜 **Ancient Wisdom for Modern Coders**
+## **Ancient Wisdom for Modern Coders**
 
 <div align="center">
 
-### 🕉️ **Bhagavad Gita for Developers**
+### **Bhagavad Gita for Developers**
 
 > ### *"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।"*
 > **"You have the right to perform your actions, but you are not entitled to the fruits of action."**
@@ -463,7 +422,7 @@ const opportunities: CollaborationOpportunities = {
 
 ---
 
-### 🎵 **Outro**
+### **Outro**
 *Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together! *
 
 </div>
