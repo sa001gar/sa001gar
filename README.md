@@ -26,25 +26,31 @@
  |____/_/   \_\____/_/   \_\_| \_\ |_|\_\\___/|_| \_|____/ \___/ 
 ```
 
+<br><br>
+
+</div>
+
 ```
-  $ whoami
-  > sagar kundu // SDE & tech lead @ clustrix tech solutions
+$ whoami
+> sagar kundu // SDE & tech lead @ clustrix tech solutions
 
-  $ role
-  > software development engineer | full-stack dev x ai engineer x ethical hacker
+$ role
+> software development engineer | full-stack dev x ai engineer x ethical hacker
 
-  $ location
-  > west bengal, india // UTC+5:30
+$ location
+> west bengal, india // UTC+5:30
 
-  $ cat philosophy.txt
-  > "code with purpose, build with passion, share with love"
+$ cat philosophy.txt
+> "code with purpose, build with passion, share with love"
 
-  $ uptime
-  > coding since 2022 // coffee-powered // always shipping
+$ uptime
+> coding since 2022 // coffee-powered // always shipping
 
-  $ current_stack
-  > agentic ai | browser automation | pentesting | devops
+$ current_stack
+> agentic ai | browser automation | pentesting | devops
 ```
+
+<div align="center">
 
 <br>
 
