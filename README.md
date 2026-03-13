@@ -1,13 +1,13 @@
 <!-- ═══════════════ ANIMATED BANNER ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sagar%20Kundu&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Agentic%20AI%20Builder%20%E2%80%A2%20Penetration%20Tester&descSize=18&descAlignY=55&descColor=ffffffcc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sagar%20Kundu&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SDE%20%7C%20Tech%20Lead%20%40%20Clustrix%20Tech%20Solutions%20%E2%80%A2%20Agentic%20AI%20Builder%20%E2%80%A2%20Pentester&descSize=18&descAlignY=55&descColor=ffffffcc" width="100%" />
 
 <div align="center">
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
 
 <a href="https://github.com/sa001gar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%F0%9F%A4%96+Building+Agentic+AI+Systems+that+think+autonomously;%F0%9F%94%90+Breaking+systems+to+make+them+unbreakable;%F0%9F%9A%80+Shipping+full-stack+apps+from+0+to+production;%F0%9F%A7%A0+Orchestrating+LLM+pipelines+%26+AI+agents;%E2%9A%A1+Automating+the+web+with+Puppeteer+%26+Playwright;%F0%9F%8C%8D+Open+source+contributor+%26+community+builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=40&lines=Building+Agentic+AI+Systems;Breaking+systems+to+make+them+unbreakable;Shipping+full-stack+apps+from+0+to+production;Orchestrating+LLM+pipelines+and+AI+agents;Automating+the+web+at+scale;Open+source+contributor+and+community+builder" alt="Typing SVG" />
 </a>
 
 <br>
@@ -19,28 +19,31 @@
 <!-- ═══════════════ TERMINAL-STYLE HERO ═══════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   ███████╗ █████╗  ██████╗  █████╗ ██████╗                                   │
-│   ██╔════╝██╔══██╗██╔════╝ ██╔══██╗██╔══██╗                                  │
-│   ███████╗███████║██║  ███╗███████║██████╔╝                                   │
-│   ╚════██║██╔══██║██║   ██║██╔══██║██╔══██╗                                   │
-│   ███████║██║  ██║╚██████╔╝██║  ██║██║  ██║                                   │
-│   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝                                   │
-│                                                                              │
-│   $ whoami                                                                   │
-│   → Sagar Kundu // Full-Stack Dev × AI Engineer × Ethical Hacker             │
-│                                                                              │
-│   $ location                                                                 │
-│   → West Bengal, India 🇮🇳  //  UTC+5:30  //  Night Owl 🦉                    │
-│                                                                              │
-│   $ cat philosophy.txt                                                       │
-│   → "Code with purpose, build with passion, share with love"                 │
-│                                                                              │
-│   $ uptime                                                                   │
-│   → Coding since 2022  //  Coffee-powered ☕  //  Always shipping 🚀         │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+  ____    _    ____    _    ____    _  ___   _ _   _ ____  _   _ 
+ / ___|  / \  / ___|  / \  |  _ \  | |/ / | | | \ | |  _ \| | | |
+ \___ \ / _ \| |  _  / _ \ | |_) | | ' /| | | |  \| | | | | | | |
+  ___) / ___ \ |_| |/ ___ \|  _ <  | . \| |_| | |\  | |_| | |_| |
+ |____/_/   \_\____/_/   \_\_| \_\ |_|\_\\___/|_| \_|____/ \___/ 
+```
+
+```
+  $ whoami
+  > sagar kundu // SDE & tech lead @ clustrix tech solutions
+
+  $ role
+  > software development engineer | full-stack dev x ai engineer x ethical hacker
+
+  $ location
+  > west bengal, india // UTC+5:30
+
+  $ cat philosophy.txt
+  > "code with purpose, build with passion, share with love"
+
+  $ uptime
+  > coding since 2022 // coffee-powered // always shipping
+
+  $ current_stack
+  > agentic ai | browser automation | pentesting | devops
 ```
 
 <br>
@@ -49,10 +52,10 @@
 
 <table>
 <tr>
-<td align="center"><b>🔭 Currently</b><br>Building Agentic AI Systems</td>
-<td align="center"><b>🌱 Learning</b><br>LLM Orchestration & Red Teaming</td>
-<td align="center"><b>💬 Ask me about</b><br>AI Agents, Pentesting, Full-Stack</td>
-<td align="center"><b>⚡ Fun fact</b><br>I code better at 3 AM</td>
+<td align="center"><b>Currently</b><br>Building Agentic AI Systems</td>
+<td align="center"><b>Learning</b><br>LLM Orchestration & Red Teaming</td>
+<td align="center"><b>Ask me about</b><br>AI Agents, Pentesting, Full-Stack</td>
+<td align="center"><b>Fun fact</b><br>I code better at 3 AM</td>
 </tr>
 </table>
 
@@ -68,23 +71,9 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=sa001gar&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/sa001gar?label=Followers&style=for-the-badge&color=4ECDC4)
-&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/sa001gar?label=Total%20Stars&style=for-the-badge&color=FFD93D)
+<img src="https://img.shields.io/github/followers/sa001gar?label=Followers&style=for-the-badge&color=4ECDC4" alt="Followers" />
+<img src="https://img.shields.io/github/stars/sa001gar?label=Total%20Stars&style=for-the-badge&color=FFD93D" alt="Stars" />
 
-</div>
-
----
-
-<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa001gar/sa001gar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa001gar/sa001gar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sa001gar/sa001gar/output/github-snake.svg" width="100%" />
-  </picture>
 </div>
 
 ---
@@ -93,28 +82,27 @@
 
 ```javascript
 const sagar = {
-  //  Personal Matrix
+  // Personal Matrix
   personalInfo: {
     name: "Sagar Kundu",
     age: calculateAge("2006-XX-XX"), // The mystery continues...
-    location: "West Bengal, India 🇮🇳",
+    location: "West Bengal, India",
     timezone: "Asia/Kolkata (UTC+5:30)",
-    languages: ["Bengali ", "English ", "Hindi ", "JavaScript"],
-    pronouns: "he/him",
-    relationship_status: "In a relationship with my code ❤️"
+    languages: ["Bengali", "English", "Hindi", "JavaScript"],
+    pronouns: "he/him"
   },
 
   // Current Mission
   currentFocus: [
-    "🤖 Building Agentic AI systems & autonomous agents",
-    "🔐 Ethical hacking & penetration testing",
-    "🧠 Exploring LLM orchestration & AI pipelines",
-    "🌐 Browser automation at scale",
-    "⚡ Automating everything possible",
-    "🔓 Contributing to open source"
+    "Building Agentic AI systems & autonomous agents",
+    "Ethical hacking & penetration testing",
+    "Exploring LLM orchestration & AI pipelines",
+    "Browser automation at scale",
+    "Automating everything possible",
+    "Contributing to open source"
   ],
 
-  //  Philosophy & Mindset
+  // Philosophy & Mindset
   philosophy: {
     code: "Write code that tells a story",
     security: "Break it to understand it, then make it unbreakable",
@@ -123,21 +111,21 @@ const sagar = {
     life: "Code with purpose, build with passion, share with love"
   },
 
-  //  Current Status
+  // Current Status
   status: () => {
     const activities = ['building agents', 'learning', 'debugging', 'caffeinating', 'hacking', 'training models'];
     return activities[Math.floor(Math.random() * activities.length)];
   },
 
-  //  Fun Facts
+  // Fun Facts
   funFacts: [
-    "🐛 Found my first bug at age 16, been hunting them ever since",
-    "🌙 I code better at night (3 AM = peak productivity)",
-    "☕ My code-to-coffee ratio is approximately 100 lines per cup",
-    "⚡ Can debug code faster than most people can read it",
-    "🔓 Accidentally hacked my own website while testing security",
-    "🎵 My commit messages are sometimes song lyrics",
-    "🌍 Dream: To build something that changes the world"
+    "Found my first bug at age 16, been hunting them ever since",
+    "I code better at night (3 AM = peak productivity)",
+    "My code-to-coffee ratio is approximately 100 lines per cup",
+    "Can debug code faster than most people can read it",
+    "Accidentally hacked my own website while testing security",
+    "My commit messages are sometimes song lyrics",
+    "Dream: To build something that changes the world"
   ]
 };
 
@@ -146,7 +134,7 @@ console.log("Welcome to my digital world!");
 
 ---
 
-## 🤖 **Agentic AI & Intelligent Automation**
+## **Agentic AI & Intelligent Automation**
 
 <div align="center">
 
@@ -189,7 +177,7 @@ console.log("Welcome to my digital world!");
 
 ---
 
-## 🔐 **Cybersecurity Arsenal**
+## **Cybersecurity Arsenal**
 
 <div align="center">
 
@@ -375,10 +363,10 @@ console.log("Welcome to my digital world!");
 </tr>
 </table>
 
-<!-- ═══════════════ 3D CONTRIBUTION CHART ═══════════════ -->
+<!-- ═══════════════ GITHUB TROPHIES ═══════════════ -->
 
 <a href="https://github.com/sa001gar">
-  <img src="https://github-profile-trophy.vercel.app/?username=sa001gar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sa001gar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&row=1" width="100%" alt="GitHub Trophies" />
 </a>
 
 </div>
@@ -460,19 +448,19 @@ console.log(joke);
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sa001gar&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/sa001gar?label=Followers&style=for-the-badge&color=4ECDC4)
-![GitHub User's stars](https://img.shields.io/github/stars/sa001gar?label=Total%20Stars&style=for-the-badge&color=FFD93D)
+<img src="https://komarev.com/ghpvc/?username=sa001gar&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/sa001gar?label=Followers&style=for-the-badge&color=4ECDC4" alt="Followers" />
+<img src="https://img.shields.io/github/stars/sa001gar?label=Total%20Stars&style=for-the-badge&color=FFD93D" alt="Stars" />
 
 </div>
 
 ---
 
-## 💬 **Let's Connect & Collaborate!**
+## **Let's Connect & Collaborate**
 
 <div align="left">
 
-### 🤝 **Open for Collaboration**
+### **Open for Collaboration**
 ```typescript
 interface CollaborationOpportunities {
   openSource: boolean;
@@ -497,20 +485,20 @@ const opportunities: CollaborationOpportunities = {
 };
 ```
 
-### 📧 **Get In Touch**
+### **Get In Touch**
 [![Email](https://img.shields.io/badge/_Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sagarkundu.me)
 [![Portfolio](https://img.shields.io/badge/_Visit_Portfolio-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.sagarkundu.me)
 [![LinkedIn](https://img.shields.io/badge/_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkundu)
 
-### 💡 **What I Can Help With**
-- 🌐 Full-stack web development
-- 🤖 Agentic AI systems & LLM pipelines
-- 🧠 AI/ML implementation & model training
-- 🔐 Security audits & penetration testing
-- 🕷️ Browser automation & web scraping at scale
-- 👨‍🏫 Technical mentoring & code reviews
-- 🏗️ Project architecture & optimization
-- ✍️ Technical writing & documentation
+### **What I Can Help With**
+- Full-stack web development
+- Agentic AI systems & LLM pipelines
+- AI/ML implementation & model training
+- Security audits & penetration testing
+- Browser automation & web scraping at scale
+- Technical mentoring & code reviews
+- Project architecture & optimization
+- Technical writing & documentation
 
 </div>
 
@@ -522,13 +510,13 @@ const opportunities: CollaborationOpportunities = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 
-**⭐ From [sa001gar](https://github.com/sa001gar) with ❤️ and lots of ☕**
+**From [sa001gar](https://github.com/sa001gar) with love and lots of coffee**
 
 *Last updated: March 2025 | Made with passion, powered by caffeine*
 
 ---
 
 ### **Outro**
-*Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together!*
+*Thanks for visiting my digital universe! If you found something interesting, don't forget to star some repositories and let's build something amazing together!*
 
 </div>
