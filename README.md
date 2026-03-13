@@ -1,8 +1,14 @@
+<!-- ═══════════════ ANIMATED BANNER ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sagar%20Kundu&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Agentic%20AI%20Builder%20%E2%80%A2%20Penetration%20Tester&descSize=18&descAlignY=55&descColor=ffffffcc" width="100%" />
+
 <div align="center">
-    
-# **SAGAR KUNDU**
-    
-**Full-Stack Developer** • **AI/ML Engineer** • **Penetration Tester** • **DevOps Explorer**
+
+<!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
+
+<a href="https://github.com/sa001gar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%F0%9F%A4%96+Building+Agentic+AI+Systems+that+think+autonomously;%F0%9F%94%90+Breaking+systems+to+make+them+unbreakable;%F0%9F%9A%80+Shipping+full-stack+apps+from+0+to+production;%F0%9F%A7%A0+Orchestrating+LLM+pipelines+%26+AI+agents;%E2%9A%A1+Automating+the+web+with+Puppeteer+%26+Playwright;%F0%9F%8C%8D+Open+source+contributor+%26+community+builder" alt="Typing SVG" />
+</a>
 
 <br>
 
@@ -10,59 +16,75 @@
 
 <br>
 
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                  Welcome to my Digital World!                ║
-    ║                                                              ║
-    ║     West Bengal, India  •   Coffee-Powered  •   Night Owl    ║
-    ║                                                              ║
-    ║   "Code with purpose, build with passion, share with love"   ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
-</div>
+<!-- ═══════════════ TERMINAL-STYLE HERO ═══════════════ -->
 
-<div align="center">
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   ███████╗ █████╗  ██████╗  █████╗ ██████╗                                   │
+│   ██╔════╝██╔══██╗██╔════╝ ██╔══██╗██╔══██╗                                  │
+│   ███████╗███████║██║  ███╗███████║██████╔╝                                   │
+│   ╚════██║██╔══██║██║   ██║██╔══██║██╔══██╗                                   │
+│   ███████║██║  ██║╚██████╔╝██║  ██║██║  ██║                                   │
+│   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝                                   │
+│                                                                              │
+│   $ whoami                                                                   │
+│   → Sagar Kundu // Full-Stack Dev × AI Engineer × Ethical Hacker             │
+│                                                                              │
+│   $ location                                                                 │
+│   → West Bengal, India 🇮🇳  //  UTC+5:30  //  Night Owl 🦉                    │
+│                                                                              │
+│   $ cat philosophy.txt                                                       │
+│   → "Code with purpose, build with passion, share with love"                 │
+│                                                                              │
+│   $ uptime                                                                   │
+│   → Coding since 2022  //  Coffee-powered ☕  //  Always shipping 🚀         │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
-###  **Digital Presence & Portfolio**
-[![Portfolio](https://img.shields.io/badge/_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://portfolio.sagarkundu.live)
+<!-- ═══════════════ QUICK STATS ═══════════════ -->
+
+<table>
+<tr>
+<td align="center"><b>🔭 Currently</b><br>Building Agentic AI Systems</td>
+<td align="center"><b>🌱 Learning</b><br>LLM Orchestration & Red Teaming</td>
+<td align="center"><b>💬 Ask me about</b><br>AI Agents, Pentesting, Full-Stack</td>
+<td align="center"><b>⚡ Fun fact</b><br>I code better at 3 AM</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://portfolio.sagarkundu.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkundu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagarkundu._)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sagarkundu.live)
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=sa001gar&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/sa001gar?label=Followers&style=for-the-badge&color=4ECDC4)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/sa001gar?label=Total%20Stars&style=for-the-badge&color=FFD93D)
 
 </div>
 
-
-
 ---
 
-## **Currently Jamming To** 🎧
+<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-    
-[![Spotify](https://spotify-worker.kundusagar233.workers.dev/current-playing?github=true&image=false&background=1a1b27&color=ffffff)](https://open.spotify.com/user/rjb4qo7kpfs4o9u8sedth1v7j)
-</td>
-
-<td width="50%">
-    
-**Coding Playlist:** *60s–80s Classics • 2000s Bollywood • Kishore Kumar Forever*
-
-**Favorite Web Series:** *Asur • The Social Network • Scam 1992 • The Playlist • The Hustler • Panchayat* 
-
-**Go-to Films:** *Interstellar • Kishore Kumar Junior • Steve Jobs • 800*
-</td>
-
-</tr>
-</table>
-
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa001gar/sa001gar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa001gar/sa001gar/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sa001gar/sa001gar/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -84,42 +106,126 @@ const sagar = {
 
   // Current Mission
   currentFocus: [
-    " Building AI-powered applications",
-    " Ethical hacking & penetration testing",
-    " Crafting beautiful terminal UIs",
-    " Automating everything possible",
-    " Contributing to open source",
-    " Sharing knowledge through mentoring"
+    "🤖 Building Agentic AI systems & autonomous agents",
+    "🔐 Ethical hacking & penetration testing",
+    "🧠 Exploring LLM orchestration & AI pipelines",
+    "🌐 Browser automation at scale",
+    "⚡ Automating everything possible",
+    "🔓 Contributing to open source"
   ],
 
   //  Philosophy & Mindset
   philosophy: {
     code: "Write code that tells a story",
     security: "Break it to understand it, then make it unbreakable",
+    ai: "Build agents that think, not just respond",
     learning: "Every bug is a lesson, every feature is growth",
     life: "Code with purpose, build with passion, share with love"
   },
 
   //  Current Status
   status: () => {
-    const activities = ['building', 'learning', 'debugging', 'caffeinating', 'hacking'];
+    const activities = ['building agents', 'learning', 'debugging', 'caffeinating', 'hacking', 'training models'];
     return activities[Math.floor(Math.random() * activities.length)];
   },
 
   //  Fun Facts
   funFacts: [
-    " Found my first bug at age 16, been hunting them ever since",
-    " I code better at night (3 AM = peak productivity)",
-    " My code-to-coffee ratio is approximately 100 lines per cup",
-    " Can debug code faster than most people can read it",
-    " Accidentally hacked my own website while testing security",
-    " My commit messages are sometimes song lyrics",
-    " Dream: To build something that changes the world"
+    "🐛 Found my first bug at age 16, been hunting them ever since",
+    "🌙 I code better at night (3 AM = peak productivity)",
+    "☕ My code-to-coffee ratio is approximately 100 lines per cup",
+    "⚡ Can debug code faster than most people can read it",
+    "🔓 Accidentally hacked my own website while testing security",
+    "🎵 My commit messages are sometimes song lyrics",
+    "🌍 Dream: To build something that changes the world"
   ]
 };
 
 console.log("Welcome to my digital world!");
 ```
+
+---
+
+## 🤖 **Agentic AI & Intelligent Automation**
+
+<div align="center">
+
+> *Building the future with autonomous AI agents, intelligent pipelines, and browser-scale automation*
+
+<br>
+
+### **AI Agent Frameworks & LLM Orchestration**
+![Google AI ADK](https://img.shields.io/badge/Google_AI_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logo=robot&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Haystack](https://img.shields.io/badge/Haystack-00C853?style=for-the-badge&logo=deepset&logoColor=white)
+
+### **LLM Providers & APIs**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+### **Browser Automation & Scraping**
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Crawl4AI](https://img.shields.io/badge/Crawl4AI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+
+### **Vector DBs & RAG Infrastructure**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=chroma&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00DCA4?style=for-the-badge&logo=weaviate&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+</div>
+
+---
+
+## 🔐 **Cybersecurity Arsenal**
+
+<div align="center">
+
+> *"Break it to understand it, then make it unbreakable"*
+
+<br>
+
+### **Reconnaissance & OSINT**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-6E7F80?style=for-the-badge&logo=maltego&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-1ABC9C?style=for-the-badge&logo=linux&logoColor=white)
+
+### **Exploitation & Pentesting**
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-BA1A1A?style=for-the-badge&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-3E4451?style=for-the-badge&logo=hashcat&logoColor=white)
+
+### **Web Security & Vulnerability Analysis**
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
+![Dirb](https://img.shields.io/badge/Dirb-8B0000?style=for-the-badge&logo=linux&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-8B4513?style=for-the-badge&logo=linux&logoColor=white)
+
+### **Network & Wireless**
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logo=linux&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-006400?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
 
 ---
 
@@ -201,6 +307,7 @@ console.log("Welcome to my digital world!");
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-181717?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -240,8 +347,6 @@ console.log("Welcome to my digital world!");
 **Language Distribution**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sa001gar&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 </td>
-
-</td>
 <td width="50%">
 
 **Contribution Streak**
@@ -269,6 +374,12 @@ console.log("Welcome to my digital world!");
 </td>
 </tr>
 </table>
+
+<!-- ═══════════════ 3D CONTRIBUTION CHART ═══════════════ -->
+
+<a href="https://github.com/sa001gar">
+  <img src="https://github-profile-trophy.vercel.app/?username=sa001gar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -353,13 +464,6 @@ console.log(joke);
 ![GitHub followers](https://img.shields.io/github/followers/sa001gar?label=Followers&style=for-the-badge&color=4ECDC4)
 ![GitHub User's stars](https://img.shields.io/github/stars/sa001gar?label=Total%20Stars&style=for-the-badge&color=FFD93D)
 
-###  **Global Reach**
-```
-Visitors from 25+ countries
-Top regions: India, USA, Germany, UK, Canada
-Peak activity: 10 PM - 2 AM IST (Night owl confirmed! )
-```
-
 </div>
 
 ---
@@ -377,15 +481,19 @@ interface CollaborationOpportunities {
   fullTime: boolean;
   speaking: boolean;
   writing: boolean;
+  agenticAI: boolean;
+  securityAudits: boolean;
 }
 
 const opportunities: CollaborationOpportunities = {
-  openSource: true,    // Always ready to contribute!
-  mentoring: true,     // Love helping fellow developers
-  freelance: true,     // Interesting projects welcome
-  fullTime: false,     // Currently focused on personal growth
-  speaking: true,      // Tech talks and workshops
-  writing: true        // Technical articles and tutorials
+  openSource: true,       // Always ready to contribute!
+  mentoring: true,        // Love helping fellow developers
+  freelance: true,        // Interesting projects welcome
+  fullTime: false,        // Currently focused on personal growth
+  speaking: true,         // Tech talks and workshops
+  writing: true,          // Technical articles and tutorials
+  agenticAI: true,        // Building autonomous AI agents
+  securityAudits: true    // Pen testing & vulnerability assessments
 };
 ```
 
@@ -395,12 +503,14 @@ const opportunities: CollaborationOpportunities = {
 [![LinkedIn](https://img.shields.io/badge/_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkundu)
 
 ### 💡 **What I Can Help With**
--  Full-stack web development
--  AI/ML implementation
--  Security audits & penetration testing
--  Technical mentoring & code reviews
--  Project architecture & optimization
--  Technical writing & documentation
+- 🌐 Full-stack web development
+- 🤖 Agentic AI systems & LLM pipelines
+- 🧠 AI/ML implementation & model training
+- 🔐 Security audits & penetration testing
+- 🕷️ Browser automation & web scraping at scale
+- 👨‍🏫 Technical mentoring & code reviews
+- 🏗️ Project architecture & optimization
+- ✍️ Technical writing & documentation
 
 </div>
 
@@ -408,21 +518,17 @@ const opportunities: CollaborationOpportunities = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "The future belongs to those who believe in the beauty of   ║
-║   their dreams and have the courage to code them into        ║
-║   reality." - Sagar Kundu                                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<!-- ═══════════════ ANIMATED WAVE ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 
 **⭐ From [sa001gar](https://github.com/sa001gar) with ❤️ and lots of ☕**
 
-*Last updated: January 7, 2025 | Made with passion, powered by caffeine*
+*Last updated: March 2025 | Made with passion, powered by caffeine*
 
 ---
 
 ### **Outro**
-*Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together! *
+*Thanks for visiting my digital universe! If you found something interesting, don't forget to star ⭐ some repositories and let's build something amazing together!*
 
 </div>
