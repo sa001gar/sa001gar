@@ -19,11 +19,11 @@
 <!-- ═══════════════ TERMINAL-STYLE HERO ═══════════════ -->
 
 ```
-  ____    _    ____    _    ____    _  ___   _ _   _ ____  _   _ 
- / ___|  / \  / ___|  / \  |  _ \  | |/ / | | | \ | |  _ \| | | |
- \___ \ / _ \| |  _  / _ \ | |_) | | ' /| | | |  \| | | | | | | |
-  ___) / ___ \ |_| |/ ___ \|  _ <  | . \| |_| | |\  | |_| | |_| |
- |____/_/   \_\____/_/   \_\_| \_\ |_|\_\\___/|_| \_|____/ \___/ 
+  ____    _    ____    _    ____       _  ___   _ _   _ ____  _   _ 
+ / ___|  / \  / ___|  / \  |  _ \     | |/ / | | | \ | |  _ \| | | |
+ \___ \ / _ \| |  _  / _ \ | |_) |    | ' /| | | |  \| | | | | | | |
+  ___) / ___ \ |_| |/ ___ \|  _ <     | . \| |_| | |\  | |_| | |_| |
+ |____/_/   \_\____/_/   \_\_| \_\    |_|\_\\___/|_| \_|____/ \___/ 
 ```
 
 <br><br>
@@ -72,7 +72,7 @@ $ current_stack
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://portfolio.sagarkundu.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarkundu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagarkundu._)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sagarkundu.live)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sagarkundu.me)
 
 <br>
 
