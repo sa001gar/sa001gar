@@ -519,10 +519,4 @@ const opportunities: CollaborationOpportunities = {
 **From [sa001gar](https://github.com/sa001gar) with love and lots of coffee**
 
 *Last updated: March 2025 | Made with passion, powered by caffeine*
-
----
-
-### **Outro**
-*Thanks for visiting my digital universe! If you found something interesting, don't forget to star some repositories and let's build something amazing together!*
-
 </div>
